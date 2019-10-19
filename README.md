@@ -1,2 +1,2 @@
 # ShoppingList
-Simple shopping list build with electron framework
+Simple shopping list built with electron framework
