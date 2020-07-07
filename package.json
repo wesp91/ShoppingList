@@ -12,7 +12,7 @@
   "author": "Daniele Montesano",
   "license": "MIT",
   "dependencies": {
-    "electron": "^6.0.12"
+    "electron": "^9.1.0"
   },
   "devDependencies": {
     "electron-packager": "^14.0.6"
